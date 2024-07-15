@@ -15,4 +15,9 @@
          <lastmod>2024-07-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://mydomain.org/mysite/guides/update-guide/</loc>
+         <lastmod>2024-07-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
